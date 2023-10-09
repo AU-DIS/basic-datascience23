@@ -17,7 +17,7 @@ The structure of the repository is as follows:
 
 Before you begin, please install Anaconda. After installing conda, you should run the following commands to set up a suitable environment for the course:
 
-    conda create -n py23 scipy numpy scikit-learn pandas jupyter matplotlib 
+    conda create -n py23 scipy numpy scikit-learn pandas jupyter matplotlib seaborn
     conda activate py23
 
 To run jupyter, run the following command:
